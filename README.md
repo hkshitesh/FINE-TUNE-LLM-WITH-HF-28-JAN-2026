@@ -25,3 +25,7 @@ https://colab.research.google.com/drive/1lbtYXHXJTaAtP0110C1jXdUCxmOvWlDY?usp=sh
 ## Lab Exercise 7- Performance Comparison of Pre-trained vs Fine-Tuned Hugging Face Model for Sentiment Analysis
 
 https://colab.research.google.com/drive/15AmPSKSkeHwVlHOCeeUfnfJKcbDOtWk-?usp=sharing
+
+## Mini-Project-2- Comparison of RAG and Fine-Tuning for Large Language Models
+
+https://colab.research.google.com/drive/1camJITprlKHd3wFE-MKr8ku4w0gRHT7D?usp=sharing
