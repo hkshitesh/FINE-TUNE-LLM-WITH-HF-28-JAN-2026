@@ -17,3 +17,7 @@ https://colab.research.google.com/drive/1tamgLIFi_xY8u8sMwDGnAzrdZAoxYr3S?usp=sh
 ## Lab Exercise 5- Sequence-to-Sequence (Seq2Seq) Modelling
 
 https://colab.research.google.com/drive/1g4Nr1naP12IEFmcYazFLmOo98AIe_frG?usp=sharing
+
+## Lab Exercise 6- Using a Pre-Trained Model from Hugging Face for Sentiment Analysis
+
+https://colab.research.google.com/drive/1lbtYXHXJTaAtP0110C1jXdUCxmOvWlDY?usp=sharing
