@@ -21,3 +21,7 @@ https://colab.research.google.com/drive/1g4Nr1naP12IEFmcYazFLmOo98AIe_frG?usp=sh
 ## Lab Exercise 6- Using a Pre-Trained Model from Hugging Face for Sentiment Analysis
 
 https://colab.research.google.com/drive/1lbtYXHXJTaAtP0110C1jXdUCxmOvWlDY?usp=sharing
+
+## Lab Exercise 7- Performance Comparison of Pre-trained vs Fine-Tuned Hugging Face Model for Sentiment Analysis
+
+https://colab.research.google.com/drive/15AmPSKSkeHwVlHOCeeUfnfJKcbDOtWk-?usp=sharing
